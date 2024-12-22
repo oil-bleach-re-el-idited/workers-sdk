@@ -2,7 +2,7 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-
+1
 ################################################################################################################################################
 # Fortify Application Security provides your team with solutions to empower DevSecOps practices, enable cloud transformation, and secure your  #
 # software supply chain. To learn more about Fortify, start a free trial or contact our sales team, visit fortify.com.                         #
@@ -12,9 +12,9 @@
 # Code Scanning Alerts. Additional information is available in the workflow comments and the Fortify AST Action / fcli / Fortify product       #
 # documentation. If you need additional assistance, please contact Fortify support.                                                            #
 ################################################################################################################################################
-
+7
 name: Fortify AST Scan
-
+2
 # Customize trigger events based on your DevSecOps process and/or policy
 on:
   push:
